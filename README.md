@@ -2,4 +2,4 @@
 
 * Pagina que contiene blogs y recetas
 * Pagina que muestra cursos
-* Pagina con formulario
+* Pagina con formulario incluido
